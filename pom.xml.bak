@@ -8,10 +8,10 @@
         <version>2.1.13.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.demo20200412</groupId>
-    <artifactId>demo20200412</artifactId>
+    <groupId>com.jwolf</groupId>
+    <artifactId>cicd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo20200412</name>
+    <name>cicd</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -1,4 +1,4 @@
-package com.demo20200412.demo20200412;
+package com.jwolf.cicd;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Demo20200412ApplicationTests {
+public class CicdApplicationTests {
 
     @Test
     public void contextLoads() {

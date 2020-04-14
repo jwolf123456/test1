@@ -1,4 +1,4 @@
-package com.demo20200412.demo20200412.controller;
+package com.jwolf.cicd.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
